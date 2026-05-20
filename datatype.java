@@ -2,16 +2,16 @@ public class datatype
 {
       public static void main (String a[])
       {
-        int num = 8;    
+        int num = 8;           // Integer
         byte by = 127;
         short sh = 558;
         long l = 5854l;
 
-        float f = 5.8f;
+        float f = 5.8f;        // Float
         double d = 5.8;
 
-        char c = 'k';
+        char c = 'k';          // Charactor
 
-        boolean b = true;
+        boolean b = true;      // Boolean
       }
 }
